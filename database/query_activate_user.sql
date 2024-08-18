@@ -1,0 +1,1 @@
+UPDATE users SET activo=true WHERE id=2;
